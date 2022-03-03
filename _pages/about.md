@@ -44,9 +44,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.08 - 2023.07*, Doctor of Philosophy, Robotics and autonomous systems, Nanyang Technological University, Singapore 
 - *2015.09 - 2019.06*, Bachleor of Enginnering, Vehicle Engineering, Chongqing University, Chongqing, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Invited Talks 
+- *2021.06*, Interaction Prediction, CVPR 2021 Workshop on Autonomous Driving. \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
