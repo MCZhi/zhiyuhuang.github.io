@@ -19,7 +19,17 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving](https://arxiv.org/pdf/2109.06446.pdf), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv
+
+**ICRA, 2022**
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,7 +50,31 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://arxiv.org/pdf/2005.09202.pdf), **Zhiyu Huang**, Chen Lv, Yang Xing, Jingda Wu
+
+**IEEE Sensors Journal, 2020**
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022**
+
+- [Prioritized Experience-based Reinforcement Learning with Human Guidance: Methdology and Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **arXiv**
+
+- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), Jingda Wu, **Zhiyu Huang**, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **2021 IEEE 1st International Conference on Digital Twins and Parallel Intelligence (DTPI)**
+
+- [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2106/2106.12194.pdf), Jingda Wu, **Zhiyu Huang**, Chen Lv, **arXiv**
+
+- [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
+
+- [Human-in-the-loop deep reinforcement learning with application to autonomous driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), Jingda Wu, **Zhiyu Huang**, Chao Huang, Zhongxu Hu, Peng Hang, Yang Xing, Chen Lv, **arXiv**
+
+- [Improved deep reinforcement learning with expert demonstrations for urban autonomous driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Chen Lv, **arXiv**
+
+- [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)**
 
 # 🎖 Honors and Awards
 - *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/) 
