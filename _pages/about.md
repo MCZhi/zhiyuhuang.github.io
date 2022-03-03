@@ -34,12 +34,15 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/) 
+- *2021.06* [2nd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2021.wad.vision/)
+- *2019.06* Outstanding Graduate (Top 1%)
+- *2018.10* National Scholarship (Top 1%)
+- *2017.10* National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.08 - 2023.07*, Doctor of Philosophy, Robotics and autonomous systems, Nanyang Technological University, Singapore 
+- *2015.09 - 2019.06*, Bachleor of Enginnering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
