@@ -12,7 +12,7 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 10 papers at the top AI/Robotics/ITS journals and conferences with total <a href='https://scholar.google.com/citations?user=aLZEVCsAAAAJ'>google scholar citations <strong><span id='total_cit'>220</span></strong></a>. 
+My research interest includes neural machine translation and computer vision. I have published more than 10 papers at the top AI/Robotics/ITS journals and conferences. 
 
 
 # 🔥 News
@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Zhiyu Huang**, Jingda Wu, Chen Lv
 
-**IEEE Transactions on Intelligent Transportation Systems, 2021** \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code Stars)](https://github.com/MCZhi/Driving-IRL-NGSIM) \| <strong><span class='show_paper_citations' data='aLZEVCsAAAAJ:M3ejUd6NZC8C'></span></strong>
+**IEEE Transactions on Intelligent Transportation Systems, 2021** \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code Stars)](https://github.com/MCZhi/Driving-IRL-NGSIM)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
