@@ -28,7 +28,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/ExpertDRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), **Zhiyu Huang**, Jingda Wu, Chen Lv
