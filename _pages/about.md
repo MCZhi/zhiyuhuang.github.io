@@ -24,7 +24,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 [Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving](https://arxiv.org/pdf/2109.06446.pdf), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv
 
 **ICRA, 2022**
--  we introduce a neural prediction framework based on the Transformer structure to model the relationship among the interacting agents and extract the attention of the target agent on the map waypoints.
+-  We propose a neural prediction framework based on the Transformer structure to model the relationship among the interacting agents and extract the attention of the target agent on the map waypoints.
 </div>
 </div>
 
@@ -34,7 +34,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/pdf/2103.10690.pdf), **Zhiyu Huang**, Jingda Wu, Chen Lv
 
 **IEEE Transactions on Neural Networks and Learning Systems, 2022** \| [**Project**](https://mczhi.github.io/Expert-Prior-RL/) \| [![](https://img.shields.io/github/stars/MCZhi/Expert-Prior-RL?style=social&label=Code Stars)](https://github.com/MCZhi/Expert-Prior-RL)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-  We propose a novel framework to incorporate human prior knowledge in DRL, in order to improve the sample efficiency and save the effort of designing sophisticated reward functions.
 </div>
 </div>
 
@@ -44,7 +44,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), **Zhiyu Huang**, Jingda Wu, Chen Lv
 
 **IEEE Transactions on Intelligent Transportation Systems, 2021** \| [![](https://img.shields.io/github/stars/MCZhi/Driving-IRL-NGSIM?style=social&label=Code Stars)](https://github.com/MCZhi/Driving-IRL-NGSIM)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose a structural assumption about internal reward function-based human driving behavior and employ sampling-based maximum entropy inverse reinforcement learning (IRL) algorithm to infer the reward function parameters from naturalistic human driving data.
 </div>
 </div>
 
@@ -54,7 +54,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 [Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://arxiv.org/pdf/2005.09202.pdf), **Zhiyu Huang**, Chen Lv, Yang Xing, Jingda Wu
 
 **IEEE Sensors Journal, 2020**
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
 </div>
 </div>
 
