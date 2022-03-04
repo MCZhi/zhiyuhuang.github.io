@@ -10,10 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engineering, Nanyang Technological University. I am working in the [The Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan) and advised by [Prof Lyu Chen](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
+I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. I am working in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), advised by [Prof Lyu Chen](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en).
 
-My research interest includes neural machine translation and computer vision. I have published more than 10 papers at the top AI/Robotics/ITS journals and conferences. 
-
+In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow machines with the ability to naturally interact with humans and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 10 papers at the top AI/Robotics/ITS journals and conferences. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
