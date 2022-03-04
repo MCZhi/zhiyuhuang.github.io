@@ -18,7 +18,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 - *2022.02*: &nbsp;🎉🎉 My paper on trajectory prediction has been accepted by ICRA 2022!
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving](https://arxiv.org/pdf/2109.06446.pdf), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv
@@ -38,7 +38,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/IRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/pdf/2010.03118.pdf), **Zhiyu Huang**, Jingda Wu, Chen Lv
@@ -48,7 +48,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/multimodal.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://arxiv.org/pdf/2005.09202.pdf), **Zhiyu Huang**, Chen Lv, Yang Xing, Jingda Wu
