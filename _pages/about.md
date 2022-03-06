@@ -81,7 +81,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 - *2018.10* National Scholarship (Top 1%)
 - *2017.10* National Scholarship (Top 1%)
 
-# 📖 Educations
+# 📖 Education
 - *2019.08 - 2023.07*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
