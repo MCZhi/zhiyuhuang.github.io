@@ -15,6 +15,7 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow machines with the ability to naturally interact with humans and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 10 papers at top AI/Robotics/ITS journals and conferences. 
 
 # 🔥 News
+- *2022.03*: &nbsp;🎉🎉 Our team took second place in the IEEE VTS Motor Vehicles Challenge 2022: Sizing and Energy Management of Hybrid dual-Energy Storage System for a Commercial Electric Vehicle!
 - *2022.02*: &nbsp;🎉🎉 My paper on trajectory prediction has been accepted by ICRA 2022!
 
 # 📝 Publications
