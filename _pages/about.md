@@ -76,7 +76,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)**
 
 # 🎖 Honors and Awards
-- *2022.03* 2nd Place Winner, IEEE VTS Motor Vehicles Challenge
+- *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851)
 - *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/) 
 - *2021.06* [2nd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2021.wad.vision/)
 - *2019.06* Outstanding Graduate (Top 1%)
