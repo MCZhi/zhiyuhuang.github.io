@@ -15,8 +15,8 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow the machine with the ability to naturally interact with humans and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 10 papers at top AI/Robotics/ITS journals and conferences. 
 
 # 🔥 News
+- *2022.04*: &nbsp;🎉🎉 Our paper on reinforcement learning with expert demonstrations has been accepted by IV 2022!
 - *2022.03*: &nbsp;🎉🎉 Our team took second place in the IEEE VTS Motor Vehicles Challenge 2022: Sizing and Energy Management of Hybrid dual-Energy Storage System for a Commercial Electric Vehicle!
-- *2022.02*: &nbsp;🎉🎉 My paper on trajectory prediction has been accepted by ICRA 2022!
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
@@ -58,6 +58,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 - We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
 </div>
 </div>
+- [Improved deep reinforcement learning with expert demonstrations for urban autonomous driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Chen Lv, **2022 IEEE Intelligent Vehicles Symposium (IV)**
 
 - [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022**
 
@@ -70,8 +71,6 @@ In my research, I focus on the intersection between autonomous driving and machi
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 - [Human-in-the-loop deep reinforcement learning with application to autonomous driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), Jingda Wu, **Zhiyu Huang**, Chao Huang, Zhongxu Hu, Peng Hang, Yang Xing, Chen Lv, **arXiv**
-
-- [Improved deep reinforcement learning with expert demonstrations for urban autonomous driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Chen Lv, **arXiv**
 
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)**
 
