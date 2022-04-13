@@ -58,7 +58,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 - We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
 </div>
 </div>
-- [Improved deep reinforcement learning with expert demonstrations for urban autonomous driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Chen Lv, **2022 IEEE Intelligent Vehicles Symposium (IV)**
+- [Improved deep reinforcement learning with expert demonstrations for urban autonomous driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **2022 IEEE Intelligent Vehicles Symposium (IV)**
 
 - [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022**
 
