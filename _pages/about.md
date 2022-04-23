@@ -24,7 +24,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 
 [Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving](https://arxiv.org/pdf/2109.06446.pdf), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv
 
-**ICRA, 2022**
+**IEEE International Conference on Robotics and Automation (ICRA), 2022**
 -  We propose a neural prediction framework based on the Transformer structure to model the relationship among the interacting agents and extract the attention of the target agent on the map waypoints.
 </div>
 </div>
