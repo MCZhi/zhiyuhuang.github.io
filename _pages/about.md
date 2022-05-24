@@ -88,4 +88,4 @@ In my research, I focus on the intersection between autonomous driving and machi
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 💬 Academic Services
-- Reviewer: IEEE T-TIS, T-IV, ICRA, TNNLS
+- Reviewer: IEEE T-TIS, T-IV, T-NNLS, ITSC, ICRA, IV
