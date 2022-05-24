@@ -87,5 +87,5 @@ In my research, I focus on the intersection between autonomous driving and machi
 - *2019.08 - 2023.07*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
-# 💬 Academic Services
+# 📚 Academic Services
 - Reviewer: IEEE T-TIS, T-IV, T-NNLS, ITSC, ICRA, IV
