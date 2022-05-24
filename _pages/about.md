@@ -77,7 +77,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 
 # 🎖 Honors and Awards
 - *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851)
-- *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/) 
+- *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/) [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
 - *2021.06* [2nd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2021.wad.vision/)
 - *2019.06* Outstanding Graduate (Top 1%)
 - *2018.10* National Scholarship (Top 1%)
@@ -87,5 +87,5 @@ In my research, I focus on the intersection between autonomous driving and machi
 - *2019.08 - 2023.07*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
-# 💬 Invited Talks 
-- *2021.06*, Interaction Prediction, CVPR 2021 Workshop on Autonomous Driving. [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
+# 💬 Service
+- Reviewer: IEEE Transactions on Intelligent Transportation Systems
