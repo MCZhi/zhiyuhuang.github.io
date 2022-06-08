@@ -88,4 +88,5 @@ In my research, I focus on the intersection between autonomous driving and machi
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
-- Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Vehicles (TIV), IEEE/CAA Journal of Automatica Sinica, International Conference on Robotics and Automation (ICRA), Intelligent Vehicles Symposium (IV), International Conference on Intelligent Transportation Systems (ITSC).
+- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Vehicles (TIV), IEEE/CAA Journal of Automatica Sinica
+- Conference Reviewer: ICRA'22, IV'22, ITSC'22.
