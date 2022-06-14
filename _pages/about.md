@@ -59,7 +59,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 - We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
 </div>
 </div>
-- [Prioritized Experience-based Reinforcement Learning with Human Guidance: Methdology and Application to Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
+- [Prioritized Experience-Based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
 
 - [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), Jingda Wu, **Zhiyu Huang**, Chao Huang, Zhongxu Hu, Peng Hang, Yang Xing, Chen Lv, **Engineering, 2022**
 
