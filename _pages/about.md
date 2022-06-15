@@ -61,7 +61,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 </div>
 - [Prioritized Experience-based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2109/2109.12516.pdf), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
 
-- [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), Jingda Wu, **Zhiyu Huang**, Chao Huang, Zhongxu Hu, Peng Hang, Yang Xing, Chen Lv, **Engineering, 2022**
+- [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Chen Lv, **Engineering, 2022**
 
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 
