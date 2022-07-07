@@ -73,15 +73,15 @@ Workshop on Autonomous Driving website.
 
 - [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2104/2104.07246.pdf), Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Chen Lv, **Engineering, 2022**
 
-- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
-
 - [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022**
-
-- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), Jingda Wu, **Zhiyu Huang**, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021**
 
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 ## Conference
+- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/pdf/2102.09243.pdf), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
+
+- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), Jingda Wu, **Zhiyu Huang**, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021**
+
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 # 🎖 Honors and Awards
