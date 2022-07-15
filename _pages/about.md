@@ -86,7 +86,7 @@ Workshop on Autonomous Driving website.
 
 # 🎖 Honors and Awards
 - *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851)
+- *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
 - *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
 - *2021.06* [2nd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2019.06* Outstanding Graduate (Top 1%)
