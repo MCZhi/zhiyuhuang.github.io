@@ -26,6 +26,16 @@ Workshop on Autonomous Driving website.
 # 📝 Publications
 ## Highlight
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/dipp.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/pdf/2207.10422.pdf), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
+
+**arXiv Preprint, 2022**
+-  We propose an end-to-end differentiable framework that integrates prediction and planning modules and is able to learn the cost function from data.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
