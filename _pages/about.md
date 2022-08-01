@@ -108,5 +108,5 @@ Workshop on Autonomous Driving website.
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
-- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Vehicles (TIV), IEEE/CAA Journal of Automatica Sinica, Automotive Innovation
+- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Intelligent Vehicles (TIV), IEEE/CAA Journal of Automatica Sinica, Automotive Innovation, IET Intelligent Transport Systems
 - Conference Reviewer: ICRA'22, IV'22, ITSC'22.
