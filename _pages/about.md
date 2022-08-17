@@ -104,7 +104,7 @@ Workshop on Autonomous Driving website.
 - *2017.10* National Scholarship (Top 1%)
 
 # 📖 Education
-- *2019.08 - 2023.07*, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore 
+- *2019.08 - 2023.07*, Doctor of Philosophy, Mechanical Engineering (Artificial intelligence, Transportation, Robotics), Nanyang Technological University, Singapore 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
