@@ -115,5 +115,13 @@ Workshop on Autonomous Driving website.
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
-- Journal Reviewer: IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Vehicles, IEEE/CAA Journal of Automatica Sinica, Automotive Innovation, IET Intelligent Transport Systems
-- Conference Reviewer: ICRA'22, IV'22, ITSC'22.
+## Journal Reviewer
+- IEEE Transactions on Intelligent Transportation Systems 2020 -- Present
+- IEEE Transactions on Neural Networks and Learning Systems 2021 -- Present
+- IEEE Transactions on Intelligent Vehicles 2021 -- Present
+- IEEE/CAA Journal of Automatica Sinica, Automotive Innovation 2022 -- Present
+- IET Intelligent Transport Systems 2022 -- Present
+## Conference Reviewer
+- ICRA 2022-2023
+- IV 2022
+- ITSC 2022
