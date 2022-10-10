@@ -124,6 +124,6 @@ Workshop on Autonomous Driving website.
 - IET Intelligent Transport Systems 2022 -- Present
 
 ## Conference Reviewer
-- ICRA 2022-2023
-- IV 2022
-- ITSC 2022
+- IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2023
+- IEEE Intelligent Vehicles Symposium (IV) 2022
+- IEEE Intelligent Transportation Systems Conference (ITSC) 2022
