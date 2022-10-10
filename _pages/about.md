@@ -119,7 +119,8 @@ Workshop on Autonomous Driving website.
 - IEEE Transactions on Intelligent Transportation Systems 2020 -- Present
 - IEEE Transactions on Neural Networks and Learning Systems 2021 -- Present
 - IEEE Transactions on Intelligent Vehicles 2021 -- Present
-- IEEE/CAA Journal of Automatica Sinica, Automotive Innovation 2022 -- Present
+- IEEE/CAA Journal of Automatica Sinica 2022 -- Present
+- Automotive Innovation 2022 -- Present
 - IET Intelligent Transport Systems 2022 -- Present
 
 ## Conference Reviewer
