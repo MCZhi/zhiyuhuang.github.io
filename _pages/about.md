@@ -88,7 +88,9 @@ Workshop on Autonomous Driving website.
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 ## Conference
-- [ReCoAt: A Deep Learning-based Framework for Multi-Modal Motion Prediction in Autonomous Driving Application](https://arxiv.org/abs/2207.00726), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE International Intelligent Transportation Systems Conference (ITSC), 2022**
+- [Stochastic Multimodal Interaction Prediction for Urban Driving](https://ieeexplore.ieee.org/abstract/document/9922298), Xiaoyu Mo, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
+
+- [ReCoAt: A Deep Learning-based Framework for Multi-Modal Motion Prediction in Autonomous Driving Application](https://arxiv.org/abs/2207.00726), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
 
 - [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
 
