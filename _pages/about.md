@@ -15,12 +15,12 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow the machine with the ability to naturally interact with humans, make intelligent decisions, and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 10 papers at top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
+- *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition 2022! Check our presentation at the [official competition site](https://smarts-project.github.io/).
 - *2022.11*: &nbsp; I will be giving a talk themed "Learning for Autonomous Driving Decision-making" on [zhidx.com](https://course.zhidx.com/c/N2IwODEyODQ5MDVmZjlhYjNlZTM=). The time will be 19:00 Nov 29th Beijing Time and the presentation will be in Chinese. Welcome to attend if you are interested!
 - *2022.06*: &nbsp;🎉🎉 Our paper on model-based reinforcement learning has been accepted by IEEE Transactions on Intelligent Vehicles!
 - *2022.06*: &nbsp;🎉🎉 We won second place in the Waymo Open Dataset Occupancy and Flow Prediction Challenge! Our report will be available on CVPR 2022
 Workshop on Autonomous Driving website.
 - *2022.06*: &nbsp;🎉🎉 Two papers on trajectory prediction have been accepted by ITSC 2022!
-- *2022.05*: &nbsp;🎉🎉 Our paper on reinforcement learning with human guidance has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
 
 
 # 📝 Publications
@@ -104,6 +104,7 @@ Workshop on Autonomous Driving website.
 - [STrajNet: Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **arXiv, 2022**
 
 # 🎖 Honors and Awards
+- *2022.12* [3rd Place Winner at Track 1 and Track 2, Most Innovative Award, NeurIPS Driving SMARTS Competition](https://smarts-project.github.io/), NeurIPS Competition Track
 - *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
 - *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
