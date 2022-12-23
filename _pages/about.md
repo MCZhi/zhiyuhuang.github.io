@@ -36,7 +36,7 @@ Workshop on Autonomous Driving website.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/DIPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
 [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
