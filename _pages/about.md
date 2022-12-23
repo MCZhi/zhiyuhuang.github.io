@@ -26,7 +26,7 @@ Workshop on Autonomous Driving website.
 # 📝 Publications
 ## Highlight
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/DIPP.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/CMPIRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
