@@ -99,7 +99,7 @@ Workshop on Autonomous Driving website.
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ## Preprints
-- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
+- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
 
 - [STrajNet: Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **arXiv, 2022**
 
