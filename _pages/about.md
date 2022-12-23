@@ -29,6 +29,16 @@ Workshop on Autonomous Driving website.
 <div class='paper-box'><div class='paper-box-image'><img src='images/DIPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+[Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
+
+**arXiv Preprint, 2022**
+- Distinguished from existing learning-based methods that directly output decisions, we introduce a predictive behavior planning framework that learns to predict and evaluate from human driving data. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">  
+  
 [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
 
 **arXiv Preprint, 2022** \| [**Project**](https://mczhi.github.io/DIPP/) \| [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
