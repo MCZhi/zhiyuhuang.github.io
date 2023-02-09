@@ -25,13 +25,13 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 
 # 📝 Publications
 ## Highlight
-<div class='paper-box'><div class='paper-box-image'><img src='images/DIPP.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/IADM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
 [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving](https://arxiv.org/abs/2302.03939), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
 **arXiv Preprint, 2023** \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
--  We propose an end-to-end differentiable framework that integrates prediction and planning modules and is able to learn the cost function from data.
+-  We propose an interaction-aware motion prediction model that is able to predict other agents' future trajectories according to the ego agent's future plans, i.e., their reactions to the ego's actions.
 </div>
 </div>
 
