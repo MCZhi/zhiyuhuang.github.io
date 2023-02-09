@@ -149,5 +149,5 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 
 ## Conference Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2023
-- IEEE Intelligent Vehicles Symposium (IV) 2022
+- IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2023
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022
