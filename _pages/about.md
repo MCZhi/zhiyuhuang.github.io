@@ -142,6 +142,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - IEEE Transactions on Neural Networks and Learning Systems 2021 -- Present
 - IEEE Transactions on Intelligent Vehicles 2021 -- Present
 - IEEE Transactions on Vehicular Technology 2022 -- Present 
+- IEEE Transactions on Cybernetics 2023 -- Present 
 - IEEE Vehicular Technology Magazine 2022 -- Present
 - IEEE/CAA Journal of Automatica Sinica 2022 -- Present
 - Automotive Innovation 2022 -- Present
