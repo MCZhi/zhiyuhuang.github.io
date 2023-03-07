@@ -15,6 +15,7 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow the machine with the ability to naturally interact with humans, make intelligent decisions, and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 20 papers at top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 Our paper about combining conditional motion prediction, inverse RL, and behavior planning has been accepted by TITS!
 - *2023.01*: &nbsp;🎉🎉 Our paper about Occupancy Flow Field Prediction has been accepted by ICRA 2023!
 - *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition! Check out our presentation on predictive decision-making at the [official competition site](https://smarts-project.github.io/archive/2022_nips_driving_smarts/).
 - *2022.11*: &nbsp; I will be giving a talk themed "Learning for Autonomous Driving Decision-making" on [zhidx.com](https://course.zhidx.com/c/N2IwODEyODQ5MDVmZjlhYjNlZTM=). The time will be 19:00 Nov 29th Beijing Time and the presentation will be in Chinese. Welcome to attend if you are interested!
@@ -40,7 +41,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 
 [Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
 
-**IEEE Transactions on Intelligent Transportation Systems, 2023*
+*IEEE Transactions on Intelligent Transportation Systems, 2023*
 - Distinguished from existing learning-based methods that directly output decisions, we introduce a predictive behavior planning framework that learns to predict and evaluate from human driving data. 
 </div>
 </div>
