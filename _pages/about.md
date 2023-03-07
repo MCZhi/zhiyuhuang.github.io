@@ -40,7 +40,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 
 [Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
 
-**arXiv Preprint, 2022**
+**IEEE Transactions on Intelligent Transportation Systems, 2023*
 - Distinguished from existing learning-based methods that directly output decisions, we introduce a predictive behavior planning framework that learns to predict and evaluate from human driving data. 
 </div>
 </div>
