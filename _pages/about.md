@@ -148,6 +148,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - IEEE/CAA Journal of Automatica Sinica 2022 -- Present
 - Automotive Innovation 2022 -- Present
 - IET Intelligent Transport Systems 2022 -- Present
+- Engineering Applications of Artificial Intelligence 2023 -- Present
 
 ## Conference Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2023
