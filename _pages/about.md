@@ -139,7 +139,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 
 # 📚 Academic Services
 ## Program Committee
-- Lead-organizer of Special Session at ITSC, 2023
+- Lead organizer of Special Session on learning-powered prediction and decision-making at ITSC, 2023
 
 ## Journal Reviewer
 - IEEE Transactions on Intelligent Transportation Systems 2020 -- Present
