@@ -15,11 +15,11 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow the machine with the ability to naturally interact with humans, make intelligent decisions, and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 20 papers at top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 We are organizing a [special session about learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) on ITSC 2023! We warmly welcome you to submit your papers to our special session if you are interested.
 - *2023.03*: &nbsp;🎉🎉 Our paper on combining conditional motion prediction, inverse RL, and behavior planning has been accepted by TITS!
 - *2023.01*: &nbsp;🎉🎉 Our paper about Occupancy Flow Field Prediction has been accepted by ICRA 2023!
 - *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition! Check out our presentation on predictive decision-making at the [official competition site](https://smarts-project.github.io/archive/2022_nips_driving_smarts/).
 - *2022.11*: &nbsp; I will be giving a talk themed "Learning for Autonomous Driving Decision-making" on [zhidx.com](https://course.zhidx.com/c/N2IwODEyODQ5MDVmZjlhYjNlZTM=). The time will be 19:00 Nov 29th Beijing Time and the presentation will be in Chinese. Welcome to attend if you are interested!
-- *2022.06*: &nbsp;🎉🎉 Our paper on model-based reinforcement learning has been accepted by IEEE Transactions on Intelligent Vehicles!
 - *2022.06*: &nbsp;🎉🎉 We won second place in the Waymo Open Dataset Occupancy and Flow Prediction Challenge! Our report will be available on [CVPR 2022
 Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 
@@ -138,6 +138,9 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
+## Program Committee
+- Lead-organizer of Special Session at ITSC, 2023
+
 ## Journal Reviewer
 - IEEE Transactions on Intelligent Transportation Systems 2020 -- Present
 - IEEE Transactions on Neural Networks and Learning Systems 2021 -- Present
@@ -149,6 +152,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - Automotive Innovation 2022 -- Present
 - IET Intelligent Transport Systems 2022 -- Present
 - Engineering Applications of Artificial Intelligence 2023 -- Present
+- Artificial Intelligence Review 2023 -- Present
 
 ## Conference Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2023
