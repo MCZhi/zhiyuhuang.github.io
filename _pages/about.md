@@ -29,6 +29,16 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 <div class='paper-box'><div class='paper-box-image'><img src='images/IADM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
+[GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving](https://arxiv.org/abs/2303.05760), **Zhiyu Huang**, Haochen Liu, Chen Lv
+
+**arXiv Preprint, 2023** \| [**Project**](https://mczhi.github.io/GameFormer/ \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
+-  We addresses the interaction prediction problem by formulating it with hierarchical game theory and implement it with TransFormer networks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/IADM.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">  
+  
 [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving](https://arxiv.org/abs/2302.03939), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
 **arXiv Preprint, 2023** \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
