@@ -163,6 +163,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - IET Intelligent Transport Systems 2022 -- Present
 - Engineering Applications of Artificial Intelligence 2023 -- Present
 - Artificial Intelligence Review 2023 -- Present
+- Renewable and Sustainable Energy Reviews 2023 -- Present
 
 ## Conference Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2023
