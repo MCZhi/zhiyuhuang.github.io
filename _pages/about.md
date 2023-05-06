@@ -134,7 +134,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
 
 # 🎖 Honors and Awards
-- *2022.12* [3rd Place Winner at Track 1 and Track 2, Most Innovative Award, NeurIPS Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/), NeurIPS Competition Track
+- *2022.12* [3rd Place Winner at Track 1 and Track 2, Most Innovative Award, NeurIPS Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track
 - *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
 - *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
