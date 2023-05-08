@@ -118,7 +118,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 ## Conference
-- [STrajNet: Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023**
+- [Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023**
 
 - [Stochastic Multimodal Interaction Prediction for Urban Driving](https://ieeexplore.ieee.org/abstract/document/9922298), Xiaoyu Mo, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
 
