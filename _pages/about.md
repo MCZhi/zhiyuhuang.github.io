@@ -20,7 +20,7 @@ In my research, I focus on the intersection between autonomous driving and machi
 - *2022.06*: &nbsp;🎉🎉 We won third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
 Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 - *2023.03*: &nbsp;🎉🎉 We are organizing a [special session about learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) on ITSC 2023! We welcome you to submit your papers to our special session if you are interested.
-- *2023.03*: &nbsp;🎉🎉 Our paper on combining conditional motion prediction, inverse RL, and behavior planning has been accepted by TITS!
+- *2023.03*: &nbsp;🎉🎉 Our paper on combining conditional motion prediction, inverse RL, and behavior planning has been accepted by IEEE Transactions on Intelligent Transportation Systems!
 - *2023.01*: &nbsp;🎉🎉 Our paper about Occupancy Flow Field Prediction has been accepted by ICRA 2023!
 - *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition! Check out our presentation on predictive decision-making at the [official competition site](https://smarts-project.github.io/archive/2022_nips_driving_smarts/).
 - *2022.11*: &nbsp; I will be giving a talk themed "Learning for Autonomous Driving Decision-making" on [zhidx.com](https://course.zhidx.com/c/N2IwODEyODQ5MDVmZjlhYjNlZTM=). The time will be 19:00 Nov 29th Beijing Time and the presentation will be in Chinese. Welcome to attend if you are interested!
