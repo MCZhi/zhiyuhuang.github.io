@@ -12,17 +12,18 @@ redirect_from:
 
 I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. I am part of the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), led by [Prof Chen Lyu](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en). **I plan to finish my PhD by the end of 2023 and I am looking for postdoc positions!**
 
-In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow the machine with the ability to naturally interact with humans, make intelligent decisions, and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 20 papers at top AI/ITS/Robotics journals and conferences. 
+In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow the machine with the ability to interact with humans naturally, make intelligent decisions, and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 20 papers at top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 We are organizing a [special session about learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) on ITSC 2023! We warmly welcome you to submit your papers to our special session if you are interested.
+- *2023.06*: &nbsp;🎉🎉 We won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1179) on our GameFormer Planner.
+- *2023.06*: &nbsp;🎉🎉 Our paper on differentiable integrated prediction and planning (DIPP) has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
+- *2022.06*: &nbsp;🎉🎉 We won third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
+Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
+- *2023.03*: &nbsp;🎉🎉 We are organizing a [special session about learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) on ITSC 2023! We welcome you to submit your papers to our special session if you are interested.
 - *2023.03*: &nbsp;🎉🎉 Our paper on combining conditional motion prediction, inverse RL, and behavior planning has been accepted by TITS!
 - *2023.01*: &nbsp;🎉🎉 Our paper about Occupancy Flow Field Prediction has been accepted by ICRA 2023!
 - *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition! Check out our presentation on predictive decision-making at the [official competition site](https://smarts-project.github.io/archive/2022_nips_driving_smarts/).
 - *2022.11*: &nbsp; I will be giving a talk themed "Learning for Autonomous Driving Decision-making" on [zhidx.com](https://course.zhidx.com/c/N2IwODEyODQ5MDVmZjlhYjNlZTM=). The time will be 19:00 Nov 29th Beijing Time and the presentation will be in Chinese. Welcome to attend if you are interested!
-- *2022.06*: &nbsp;🎉🎉 We won second place in the Waymo Open Dataset Occupancy and Flow Prediction Challenge! Our report will be available on [CVPR 2022
-Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
-
 
 # 📝 Publications
 ## Highlight
@@ -32,7 +33,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 [GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving](https://arxiv.org/abs/2303.05760), **Zhiyu Huang**, Haochen Liu, Chen Lv
 
 **arXiv Preprint, 2023** \| [**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
--  We addresses the interaction prediction problem by formulating it with hierarchical game theory and implement it with TransFormer networks.
+-  We address the interaction prediction problem by formulating it with hierarchical game theory and implementing it with TransFormer networks.
 </div>
 </div>
 
@@ -61,7 +62,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
   
 [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
 
-**arXiv Preprint, 2022** \| [**Project**](https://mczhi.github.io/DIPP/) \| [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
+**IEEE Transactions on Neural Networks and Learning Systems, 2023** \| [**Project**](https://mczhi.github.io/DIPP/) \| [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
 -  We propose an end-to-end differentiable framework that integrates prediction and planning modules and is able to learn the cost function from data.
 </div>
 </div>
@@ -134,7 +135,9 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
 
 # 🎖 Honors and Awards
-- *2022.12* [3rd Place Winner, Most Innovative Award, NeurIPS Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track
+- *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving \| [\[video\]](https://youtu.be/ZwhXilQKULY?t=1179)
+- *2023.06* [3rd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2023.wad.vision/), CVPR Workshop on Autonomous Driving
+- *2022.12* [3rd Place Winner, Most Innovative Award, Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track
 - *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
 - *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
@@ -144,7 +147,7 @@ Workshop on Autonomous Driving](https://cvpr2022.wad.vision/).
 - *2017.10* National Scholarship (Top 1%)
 
 # 📖 Education
-- *2019.08 - 2023.07*, Doctor of Philosophy, Mechanical Engineering (AI, Transportation, Robotics), Nanyang Technological University, Singapore 
+- *2019.08 - 2023.07*, Doctor of Philosophy, Mechanical Engineering (Robotics and Intelligent Systems), Nanyang Technological University, Singapore 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
