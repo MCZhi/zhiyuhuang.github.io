@@ -137,7 +137,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 # 🎖 Honors and Awards
 - *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving \| [\[video\]](https://youtu.be/ZwhXilQKULY?t=1204)
 - *2023.06* [3rd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2023.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2022.12* [3rd Place Winner, Most Innovative Award, Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track \| [\[Slides\]](https://smarts-project.github.io/assets/docs/aid_driving_smarts.pdf)
+- *2022.12* [3rd Place Winner, Most Innovative Award, Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track \| [\[slides\]](https://smarts-project.github.io/assets/docs/aid_driving_smarts.pdf)
 - *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
 - *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
