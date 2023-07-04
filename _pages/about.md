@@ -132,6 +132,8 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ## Preprints
+- [Occupancy Prediction-Guided Neural Planner for Autonomous Driving](https://arxiv.org/abs/2305.03303), Haochen Liu, **Zhiyu Huang**, Chen Lv, **arXiv, 2023**
+
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
 
 # 🎖 Honors and Awards
