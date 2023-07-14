@@ -15,6 +15,8 @@ I am currently a Ph.D. candidate in the School of Mechanical and Aerospace Engin
 In my research, I focus on the intersection between autonomous driving and machine learning, with the aim of developing algorithms and techniques that can endow the machine with the ability to interact with humans naturally, make intelligent decisions, and drive like an experienced human driver. In particular, my research interests include deep learning and reinforcement learning with the application to autonomous driving decision-making, prediction&planning, simulation, and human-machine interaction. I have published more than 20 papers at top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
+- *2023.07*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by International Conference on Computer Vision (ICCV)! The code will be released soon.
+- *2023.07*: &nbsp;🎉🎉 Two papers on predictive decision-making/planning have been accepted by International Conference on Intelligent Transportation Systems (ITSC)!
 - *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
 - *2023.06*: &nbsp;🎉🎉 Our paper on differentiable integrated prediction and planning (DIPP) has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
 - *2022.06*: &nbsp;🎉🎉 Our team won third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
@@ -32,7 +34,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
   
 [GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving](https://arxiv.org/abs/2303.05760), **Zhiyu Huang**, Haochen Liu, Chen Lv
 
-**arXiv Preprint, 2023** \| [**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
+**IEEE International Conference on Computer Vision (ICCV), 2023** \| [**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
 -  We address the interaction prediction problem by formulating it with hierarchical game theory and implementing it with TransFormer networks.
 </div>
 </div>
@@ -42,7 +44,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
   
 [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving](https://arxiv.org/abs/2302.03939), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
-**arXiv Preprint, 2023** \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
+**International Conference on Intelligent Transportation Systems (ITSC), 2023** \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
 -  We propose an interaction-aware motion prediction model that is able to predict other agents' future trajectories according to the ego agent's future plans, i.e., their reactions to the ego's actions.
 </div>
 </div>
@@ -119,6 +121,8 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 ## Conference
+- [Occupancy Prediction-Guided Neural Planner for Autonomous Driving](https://arxiv.org/abs/2305.03303), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023**
+
 - [Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023**
 
 - [Stochastic Multimodal Interaction Prediction for Urban Driving](https://ieeexplore.ieee.org/abstract/document/9922298), Xiaoyu Mo, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
@@ -132,8 +136,6 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ## Preprints
-- [Occupancy Prediction-Guided Neural Planner for Autonomous Driving](https://arxiv.org/abs/2305.03303), Haochen Liu, **Zhiyu Huang**, Chen Lv, **arXiv, 2023**
-
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
 
 # 🎖 Honors and Awards
