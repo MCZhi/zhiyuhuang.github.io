@@ -34,7 +34,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
   
 [GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving](https://arxiv.org/abs/2303.05760), **Zhiyu Huang**, Haochen Liu, Chen Lv
 
-**IEEE International Conference on Computer Vision (ICCV), 2023** \| [**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
+**IEEE/CVF International Conference on Computer Vision (ICCV), 2023** \| [**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
 -  We address the interaction prediction problem by formulating it with hierarchical game theory and implementing it with TransFormer networks.
 </div>
 </div>
@@ -44,7 +44,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
   
 [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving](https://arxiv.org/abs/2302.03939), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
-**International Conference on Intelligent Transportation Systems (ITSC), 2023** \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
+**IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
 -  We propose an interaction-aware motion prediction model that is able to predict other agents' future trajectories according to the ego agent's future plans, i.e., their reactions to the ego's actions.
 </div>
 </div>
