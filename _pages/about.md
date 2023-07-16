@@ -34,7 +34,10 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
   
 [GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving](https://arxiv.org/abs/2303.05760), **Zhiyu Huang**, Haochen Liu, Chen Lv
 
-**IEEE/CVF International Conference on Computer Vision (ICCV), 2023** \| [**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
+**IEEE/CVF International Conference on Computer Vision (ICCV), 2023**
+
+[**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
+
 -  We address the interaction prediction problem by formulating it with hierarchical game theory and implementing it with TransFormer networks.
 </div>
 </div>
@@ -44,7 +47,10 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
   
 [Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving](https://arxiv.org/abs/2302.03939), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
-**IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
+**IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** 
+
+[![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
+
 -  We propose an interaction-aware motion prediction model that is able to predict other agents' future trajectories according to the ego agent's future plans, i.e., their reactions to the ego's actions.
 </div>
 </div>
@@ -55,6 +61,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 [Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving](https://arxiv.org/abs/2212.08787), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
 
 **IEEE Transactions on Intelligent Transportation Systems, 2023**
+
 - Distinguished from existing learning-based methods that directly output decisions, we introduce a predictive behavior planning framework that learns to predict and evaluate from human driving data. 
 </div>
 </div>
@@ -64,7 +71,10 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
   
 [Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving](https://arxiv.org/abs/2207.10422), **Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
 
-**IEEE Transactions on Neural Networks and Learning Systems, 2023** \| [**Project**](https://mczhi.github.io/DIPP/) \| [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
+**IEEE Transactions on Neural Networks and Learning Systems, 2023** 
+
+[**Project**](https://mczhi.github.io/DIPP/) \| [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
+
 -  We propose an end-to-end differentiable framework that integrates prediction and planning modules and is able to learn the cost function from data.
 </div>
 </div>
@@ -75,6 +85,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 [Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving](https://arxiv.org/abs/2109.06446), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv
 
 **IEEE International Conference on Robotics and Automation (ICRA), 2022**
+
 -  We propose a neural prediction framework based on the Transformer structure to model the relationship among the interacting agents and extract the attention of the target agent on the map waypoints.
 </div>
 </div>
@@ -84,7 +95,10 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 
 [Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving](https://arxiv.org/abs/2103.10690), **Zhiyu Huang**, Jingda Wu, Chen Lv
 
-**IEEE Transactions on Neural Networks and Learning Systems, 2022** \| [**Project**](https://mczhi.github.io/Expert-Prior-RL/) \| [![](https://img.shields.io/github/stars/MCZhi/Expert-Prior-RL?style=social&label=Code Stars)](https://github.com/MCZhi/Expert-Prior-RL)
+**IEEE Transactions on Neural Networks and Learning Systems, 2022**
+
+[**Project**](https://mczhi.github.io/Expert-Prior-RL/) \| [![](https://img.shields.io/github/stars/MCZhi/Expert-Prior-RL?style=social&label=Code Stars)](https://github.com/MCZhi/Expert-Prior-RL)
+
 -  We propose a novel framework to incorporate human prior knowledge in DRL, in order to improve the sample efficiency and save the effort of designing sophisticated reward functions.
 </div>
 </div>
@@ -94,7 +108,10 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 
 [Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning](https://arxiv.org/abs/2010.03118), **Zhiyu Huang**, Jingda Wu, Chen Lv
 
-**IEEE Transactions on Intelligent Transportation Systems, 2021** \| [![](https://img.shields.io/github/stars/MCZhi/Driving-IRL-NGSIM?style=social&label=Code Stars)](https://github.com/MCZhi/Driving-IRL-NGSIM)
+**IEEE Transactions on Intelligent Transportation Systems, 2021**
+
+[![](https://img.shields.io/github/stars/MCZhi/Driving-IRL-NGSIM?style=social&label=Code Stars)](https://github.com/MCZhi/Driving-IRL-NGSIM)
+
 - We propose a structural assumption about internal reward function-based human driving behavior and employ sampling-based maximum entropy inverse reinforcement learning (IRL) algorithm to infer the reward function parameters from naturalistic human driving data.
 </div>
 </div>
@@ -105,6 +122,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 [Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding](https://arxiv.org/abs/2005.09202), **Zhiyu Huang**, Chen Lv, Yang Xing, Jingda Wu
 
 **IEEE Sensors Journal, 2020**
+
 - We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
 </div>
 </div>
