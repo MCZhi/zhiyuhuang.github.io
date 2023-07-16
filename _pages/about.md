@@ -36,7 +36,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 
 **IEEE/CVF International Conference on Computer Vision (ICCV), 2023**
 
-[**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer)
+[**Project**](https://mczhi.github.io/GameFormer/) \| [![](https://img.shields.io/github/stars/MCZhi/GameFormer?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer) \| [**GameFormer Planner**](https://img.shields.io/github/stars/MCZhi/GameFormer-Planner?style=social&label=Code Stars)](https://github.com/MCZhi/GameFormer-Planner)
 
 -  We address the interaction prediction problem by formulating it with hierarchical game theory and implementing it with TransFormer networks.
 </div>
