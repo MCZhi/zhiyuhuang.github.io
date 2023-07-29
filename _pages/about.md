@@ -16,7 +16,7 @@ My research primarily centers around the intersection of autonomous driving and 
 
 # 🔥 News
 - *2023.07*: &nbsp; I have commenced my five-month visit at UC Berkeley. If you are in the Bay Area and would like to have a chat, feel free to DM me.
-- *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors! Looking forward to seeing you in Spain at Spemeter!
+- *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors! Looking forward to seeing you in Spain in September!
 - *2023.07*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by International Conference on Computer Vision (ICCV)! We will be releasing the code soon, so stay tuned for updates.
 - *2023.07*: &nbsp;🎉🎉 Two of our papers on predictive decision-making/planning have been accepted by the International Conference on Intelligent Transportation Systems (ITSC)!
 - *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
