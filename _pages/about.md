@@ -32,9 +32,9 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 <div class='paper-box'><div class='paper-box-image'><img src='images/gameformer.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
-GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving
+**GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving**
 
-**Zhiyu Huang**, Haochen Liu, Chen Lv
+Zhiyu Huang, Haochen Liu, Chen Lv
 
 **IEEE/CVF International Conference on Computer Vision (ICCV), 2023**
 
@@ -47,9 +47,9 @@ GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactiv
 <div class='paper-box'><div class='paper-box-image'><img src='images/IADM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
-Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving
+**Learning Interaction-aware Motion Prediction Model for Decision-making in Autonomous Driving**
 
-**Zhiyu Huang**, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
+Zhiyu Huang, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
 **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** 
 
@@ -64,9 +64,9 @@ Learning Interaction-aware Motion Prediction Model for Decision-making in Autono
 <div class='paper-box'><div class='paper-box-image'><img src='images/CMPIRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving
+**Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for Human-like Autonomous Driving**
 
-**Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
+Zhiyu Huang, Haochen Liu, Jingda Wu, Chen Lv
 
 **IEEE Transactions on Intelligent Transportation Systems, 2023**
 
@@ -79,13 +79,13 @@ Conditional Predictive Behavior Planning with Inverse Reinforcement Learning for
 <div class='paper-box'><div class='paper-box-image'><img src='images/DIPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
-Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving 
+**Differentiable Integrated Motion Prediction and Planning with Learnable Cost Function for Autonomous Driving**
 
-**Zhiyu Huang**, Haochen Liu, Jingda Wu, Chen Lv
+Zhiyu Huang, Haochen Liu, Jingda Wu, Chen Lv
 
 **IEEE Transactions on Neural Networks and Learning Systems, 2023** 
 
-[**Paper**](https://arxiv.org/abs/2207.10422 \| [**Project**](https://mczhi.github.io/DIPP/) \| [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
+[**Paper**](https://arxiv.org/abs/2207.10422) \| [**Project**](https://mczhi.github.io/DIPP/) \| [![](https://img.shields.io/github/stars/MCZhi/DIPP?style=social&label=Code Stars)](https://github.com/MCZhi/DIPP)
 
 -  We propose an end-to-end differentiable framework that integrates prediction and planning modules and is able to learn the cost function from data.
 </div>
@@ -94,9 +94,9 @@ Differentiable Integrated Motion Prediction and Planning with Learnable Cost Fun
 <div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving
+**Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomous Driving**
 
-**Zhiyu Huang**, Xiaoyu Mo, Chen Lv
+Zhiyu Huang, Xiaoyu Mo, Chen Lv
 
 **IEEE International Conference on Robotics and Automation (ICRA), 2022**
 
@@ -109,9 +109,9 @@ Multi-modal Motion Prediction with Transformer-based Neural Network for Autonomo
 <div class='paper-box'><div class='paper-box-image'><img src='images/ExpertDRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving 
+**Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomous Driving**
 
-**Zhiyu Huang**, Jingda Wu, Chen Lv
+Zhiyu Huang, Jingda Wu, Chen Lv
 
 **IEEE Transactions on Neural Networks and Learning Systems, 2022**
 
@@ -124,9 +124,9 @@ Efficient Deep Reinforcement Learning with Imitative Expert Priors for Autonomou
 <div class='paper-box'><div class='paper-box-image'><img src='images/IRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning 
+**Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Reinforcement Learning** 
 
-**Zhiyu Huang**, Jingda Wu, Chen Lv
+Zhiyu Huang, Jingda Wu, Chen Lv
 
 **IEEE Transactions on Intelligent Transportation Systems, 2021**
 
@@ -139,9 +139,9 @@ Driving Behavior Modeling using Naturalistic Human Driving Data with Inverse Rei
 <div class='paper-box'><div class='paper-box-image'><img src='images/multimodal.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding 
+**Multi-modal sensor fusion-based deep neural network for end-to-end autonomous driving with scene understanding** 
 
-**Zhiyu Huang**, Chen Lv, Yang Xing, Jingda Wu
+Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 **IEEE Sensors Journal, 2020**
 
