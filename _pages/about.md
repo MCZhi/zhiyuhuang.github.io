@@ -53,7 +53,7 @@ Zhiyu Huang, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
 **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** 
 
-**Best Paper/Best Student Paper award nominee**
+[**Best Paper/Best Student Paper award nominee**](https://2023.ieee-itsc.org/best-paper-awards/)
 
 [**Paper**](https://arxiv.org/abs/2302.03939) \| [![](https://img.shields.io/github/stars/MCZhi/Predictive-Decision?style=social&label=Code Stars)](https://github.com/MCZhi/Predictive-Decision)
 
