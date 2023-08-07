@@ -154,9 +154,9 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 ## Journal
 - [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/abs/2106.12194), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2022**
 
-- [Prioritized Experience-based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/abs/2109.12516), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022**
+- [Prioritized Experience-based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/abs/2109.12516), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022** [![](https://img.shields.io/github/stars/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving?style=social&label=Code Stars)](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
 
-- [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878), Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Chen Lv, **Engineering, 2022**
+- [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878), Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Chen Lv, **Engineering, 2022** [![](https://img.shields.io/github/stars/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving?style=social&label=Code Stars)](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning)
 
 - [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022**
 
