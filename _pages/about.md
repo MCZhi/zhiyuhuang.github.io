@@ -158,7 +158,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878), Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Chen Lv, **Engineering, 2022** [![](https://img.shields.io/github/stars/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning?style=social&label=Code Stars)](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning)
 
-- [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022**
+- [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022** [![](https://img.shields.io/github/stars/Xiaoyu006/MATP-with-HEAT?style=social&label=Code Stars)](https://github.com/Xiaoyu006/MATP-with-HEAT)
 
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
