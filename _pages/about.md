@@ -201,18 +201,14 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Lead organizer of Special Session on learning-powered prediction and decision-making at ITSC, 2023
 
 ## Journal Reviewer
-- IEEE Transactions on Intelligent Transportation Systems 2020 -- Present
-- IEEE Transactions on Neural Networks and Learning Systems 2021 -- Present
-- IEEE Transactions on Intelligent Vehicles 2021 -- Present
-- IEEE Transactions on Vehicular Technology 2022 -- Present 
-- IEEE Transactions on Cybernetics 2023 -- Present 
-- IEEE Vehicular Technology Magazine 2022 -- Present
-- IEEE/CAA Journal of Automatica Sinica 2022 -- Present
-- Automotive Innovation 2022 -- Present
-- IET Intelligent Transport Systems 2022 -- Present
-- Engineering Applications of Artificial Intelligence 2023 -- Present
-- Artificial Intelligence Review 2023 -- Present
-- Renewable and Sustainable Energy Reviews 2023 -- Present
+- IEEE Transactions on Intelligent Transportation Systems 
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Intelligent Vehicles 
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Cybernetics 
+- Engineering Applications of Artificial Intelligence
+- Artificial Intelligence Review 
+- Renewable and Sustainable Energy Reviews
 
 ## Conference Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2023
