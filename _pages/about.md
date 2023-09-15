@@ -155,7 +155,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 </div>
 
 ## Journal
-- [Human-Guided Reinforcement Learning with Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/document/10250993), Jingda Wu, Yanxin Zhou, Haohan Yang, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence , 2023** [![](https://img.shields.io/github/stars/wujingda/Multi-Hug-RL?style=social&label=Code Stars)](https://github.com/wujingda/Multi-Hug-RL)
+- [Human-Guided Reinforcement Learning with Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/document/10250993), Jingda Wu, Yanxin Zhou, Haohan Yang, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023** [![](https://img.shields.io/github/stars/wujingda/Multi-Hug-RL?style=social&label=Code Stars)](https://github.com/wujingda/Multi-Hug-RL)
 
 - [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/abs/2106.12194), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2022**
 
