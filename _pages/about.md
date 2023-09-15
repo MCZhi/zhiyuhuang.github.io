@@ -15,7 +15,8 @@ I am currently a visiting student researcher at UC Berkeley, working in the [Mec
 My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by International Conference on Computer Vision (ICCV) as **Oral presentation**!
+- *2023.09*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for robot navigation has been accepted by TPAMI!
+- *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by ICCV as **Oral presentation**!
 - *2023.07*: &nbsp; I have commenced my five-month visit to UC Berkeley. If you are in the Bay Area and would like to have a chat, feel free to DM me.
 - *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors! Looking forward to seeing you in Spain in September!
 - *2023.07*: &nbsp;🎉🎉 Two of our papers on predictive decision-making/planning have been accepted by the International Conference on Intelligent Transportation Systems (ITSC)!
@@ -154,6 +155,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 </div>
 
 ## Journal
+- [Human-Guided Reinforcement Learning with Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/document/10250993), Jingda Wu, Yanxin Zhou, Haohan Yang, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence , 2023** [![](https://img.shields.io/github/stars/wujingda/Multi-Hug-RL?style=social&label=Code Stars)](https://github.com/wujingda/Multi-Hug-RL)
+
 - [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/abs/2106.12194), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2022**
 
 - [Prioritized Experience-based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/abs/2109.12516), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022** [![](https://img.shields.io/github/stars/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving?style=social&label=Code Stars)](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
