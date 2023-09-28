@@ -216,7 +216,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Renewable and Sustainable Energy Reviews
 
 ## Conference Reviewer
-- IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2023
+- IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
 - IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2023
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 
