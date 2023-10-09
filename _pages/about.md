@@ -155,7 +155,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 </div>
 
 ## Journal
-- [Fear-Neuro-Inspired Reinforcement Learning for Safe Autonomous Driving](https://ieeexplore.ieee.org/document/10273631), JXiangkun He, Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023**
+- [Fear-Neuro-Inspired Reinforcement Learning for Safe Autonomous Driving](https://ieeexplore.ieee.org/document/10273631), Xiangkun He, Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023**
 
 - [Human-Guided Reinforcement Learning with Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/document/10250993), Jingda Wu, Yanxin Zhou, Haohan Yang, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023** [![](https://img.shields.io/github/stars/wujingda/Multi-Hug-RL?style=social&label=Code Stars)](https://github.com/wujingda/Multi-Hug-RL)
 
