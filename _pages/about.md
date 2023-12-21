@@ -22,10 +22,8 @@ My research primarily centers around the intersection of autonomous driving and 
 - *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by ICCV as **Oral presentation**!
 - *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors! Looking forward to seeing you in Spain in September!
 - *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
-- *2023.06*: &nbsp;🎉🎉 Our paper on differentiable integrated prediction and planning (DIPP) has been accepted by IEEE Transactions on Neural Networks and Learning Systems!
 - *2023.06*: &nbsp;🎉🎉 Our team secured third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
 Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
-- *2022.12*: &nbsp;🎉🎉 Our team won the Most Innovative Award and 3rd Place in both Track 1 and Track 2 at NeurIPS Driving SMARTS Competition! Check out our [presentation](https://smarts-project.github.io/assets/docs/aid_driving_smarts.pdf) on predictive decision-making at the [official competition site](https://smarts-project.github.io/archive/2022_nips_driving_smarts/).
 - *2022.11*: &nbsp; I will be giving a talk on the theme "Learning for Autonomous Driving Decision-making" on [zhidx.com](https://course.zhidx.com/c/N2IwODEyODQ5MDVmZjlhYjNlZTM=). The presentation will be in Chinese and scheduled for 19:00 on November 29th, Beijing Time. You are welcome to attend if interested!
   
 # 📝 Publications
