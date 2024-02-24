@@ -53,7 +53,7 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 
 [**Thesis**](https://dr.ntu.edu.sg/handle/10356/172842)
 
--  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost evaluation models, resulting in a direct improvement of the final planning performance.
+-  This thesis presents a comprehensive framework and a series of learning-based methodologies for decision-making in AVs, with the objective of improving the scalability, adaptability, and alignment of their decision-making systems.
 </div>
 </div>
 
@@ -217,9 +217,9 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ### Preprints
-- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer)
+- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
 
-- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
+- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
 
 # 🎖 Honors and Awards
 - *2023.09* Best Paper Runner-up Award, ITSC 2023
