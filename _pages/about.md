@@ -44,7 +44,7 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/thesis.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning-enabled Decision-making for Autonomous Driving: Framework and Methodology**
