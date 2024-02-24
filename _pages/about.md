@@ -170,6 +170,10 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 ## All Publications
 ### Journal
+- [Transformer-Based Traffic-Aware Predictive Energy Management of a Fuel Cell Electric Vehicle](https://ieeexplore.ieee.org/abstract/document/10409570), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2024**
+
+- [Map-Adaptive Multimodal Trajectory Prediction via Intention-Aware Unimodal Trajectory Predictors](https://ieeexplore.ieee.org/abstract/document/10323217/), Xiaoyu Mo, Haochen Liu, **Zhiyu Huang**, Xiuxian Li, Chen Lv,  **IEEE Transactions on Intelligent Transportation Systems, 2023**
+
 - [Fear-Neuro-Inspired Reinforcement Learning for Safe Autonomous Driving](https://ieeexplore.ieee.org/document/10273631), Xiangkun He, Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023**
 
 - [Human-Guided Reinforcement Learning with Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/document/10250993), Jingda Wu, Yanxin Zhou, Haohan Yang, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023** [![](https://img.shields.io/github/stars/wujingda/Multi-Hug-RL?style=social&label=Code Stars)](https://github.com/wujingda/Multi-Hug-RL)
@@ -200,6 +204,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ### Preprints
+- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024**
+
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
 
 # 🎖 Honors and Awards
