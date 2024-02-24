@@ -15,7 +15,7 @@ I am currently a visiting student researcher at UC Berkeley, working in the [Mec
 My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Our paper on Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning has been accepted by ICRA! See you in Yokohama, Japan!
+- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy planning has been accepted by ICRA! See you in Yokohama, Japan!
 - *2023.11*: &nbsp; I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
 - *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
 - *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
@@ -29,7 +29,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
   
 # 📝 Publications
 ## Highlights
-<div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**
@@ -40,7 +40,7 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 
 [**Paper**](https://arxiv.org/abs/2310.05885) [![](https://img.shields.io/github/stars/MCZhi/DTPP?style=social&label=Code Stars)](https://github.com/MCZhi/DTPP)
 
--  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost models, resulting in a direct improvement of the final planning performance.
+-  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost evaluation models, resulting in a direct improvement of the final planning performance.
 </div>
 </div>
 
