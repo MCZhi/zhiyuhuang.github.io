@@ -25,7 +25,6 @@ My research primarily centers around the intersection of autonomous driving and 
 - *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
 - *2023.06*: &nbsp;🎉🎉 Our team secured third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
 Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
-- *2022.11*: &nbsp; I will be giving a talk on the theme "Learning for Autonomous Driving Decision-making" on [zhidx.com](https://course.zhidx.com/c/N2IwODEyODQ5MDVmZjlhYjNlZTM=). The presentation will be in Chinese and scheduled for 19:00 on November 29th, Beijing Time. You are welcome to attend if interested!
   
 # 📝 Publications
 ## Highlights
