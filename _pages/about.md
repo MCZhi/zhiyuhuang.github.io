@@ -46,6 +46,22 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/gameformer.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning-enabled Decision-making for Autonomous Driving: Framework and Methodology**
+
+**PhD Thesis, 2024**
+
+[**Thesis**](https://dr.ntu.edu.sg/handle/10356/172842)
+
+-  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost evaluation models, resulting in a direct improvement of the final planning performance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/gameformer.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">  
   
 **GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving**
 
@@ -204,9 +220,9 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ### Preprints
-- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024**
+- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer)
 
-- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
+- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022** [![](https://img.shields.io/github/stars/georgeliu233//HPP?style=social&label=Code Stars)](https://github.com/georgeliu233//HPP)
 
 # 🎖 Honors and Awards
 - *2023.09* Best Paper Runner-up Award, ITSC 2023
@@ -222,7 +238,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2017.10* National Scholarship (Top 1%)
 
 # 📖 Education
-- *2019.08 - 2023.07*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
+- *2019.08 - 2024.01*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
@@ -234,13 +250,14 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Intelligent Vehicles 
 - IEEE Transactions on Cybernetics
+- IEEE Robotics and Automation Letters
 - Transportation Research Part C: Emerging Technologies
 - Engineering Applications of Artificial Intelligence
 - Artificial Intelligence Review 
-- Renewable and Sustainable Energy Reviews
 
 ## Conference Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
 - IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2023
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023
+- European Conference on Computer Vision (ECCV) 2024
