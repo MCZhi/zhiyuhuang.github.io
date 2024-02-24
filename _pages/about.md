@@ -15,6 +15,7 @@ I am currently a visiting student researcher at UC Berkeley, working in the [Mec
 My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 Our paper on  has been accepted by ICRA! See you in Yokohama, Japan!
 - *2023.11*: &nbsp; I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
 - *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
 - *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
@@ -27,7 +28,22 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
 - *2022.11*: &nbsp; I will be giving a talk on the theme "Learning for Autonomous Driving Decision-making" on [zhidx.com](https://course.zhidx.com/c/N2IwODEyODQ5MDVmZjlhYjNlZTM=). The presentation will be in Chinese and scheduled for 19:00 on November 29th, Beijing Time. You are welcome to attend if interested!
   
 # 📝 Publications
-## Highlight
+## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**
+
+Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
+
+**IEEE International Conference on Robotics and Automation (ICRA), 2024**
+
+[**Paper**](https://arxiv.org/abs/2310.05885) [![](https://img.shields.io/github/stars/MCZhi/DTPP?style=social&label=Code Stars)](https://github.com/MCZhi/DTPP)
+
+-  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost models, resulting in a direct improvement of the final planning performance.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/gameformer.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
@@ -152,7 +168,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 </div>
 </div>
 
-## Journal
+## All Publications
+### Journal
 - [Fear-Neuro-Inspired Reinforcement Learning for Safe Autonomous Driving](https://ieeexplore.ieee.org/document/10273631), Xiangkun He, Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023**
 
 - [Human-Guided Reinforcement Learning with Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/document/10250993), Jingda Wu, Yanxin Zhou, Haohan Yang, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023** [![](https://img.shields.io/github/stars/wujingda/Multi-Hug-RL?style=social&label=Code Stars)](https://github.com/wujingda/Multi-Hug-RL)
@@ -167,7 +184,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
-## Conference
+### Conference
 - [Occupancy Prediction-Guided Neural Planner for Autonomous Driving](https://arxiv.org/abs/2305.03303), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** [![](https://img.shields.io/github/stars/georgeliu233/OPGP?style=social&label=Code Stars)](https://github.com/georgeliu233/OPGP)
 
 - [Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023** [![](https://img.shields.io/github/stars/georgeliu233/STrajNet?style=social&label=Code Stars)](https://github.com/georgeliu233/STrajNet)
@@ -182,7 +199,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
-## Preprints
+### Preprints
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022**
 
 # 🎖 Honors and Awards
