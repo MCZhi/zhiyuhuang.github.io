@@ -10,12 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a visiting student researcher at UC Berkeley, working in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/) under the guidance of Prof. Masayoshi Tomizuka and Dr. Wei Zhan. I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. My research endeavors are based in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), which is led by Prof. Chen Lyu. **I am enthusiastic about completing my Ph.D. by the end of 2023 and actively seeking postdoctoral positions to propel my research career further.**
+I am currently a visiting student researcher at UC Berkeley, working in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/) under the guidance of Prof. Masayoshi Tomizuka and Dr. Wei Zhan. I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. My research endeavors are based in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), which is led by Prof. Chen Lyu. **I am actively seeking postdoctoral positions to propel my research career further.**
 
 My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Our paper on  has been accepted by ICRA! See you in Yokohama, Japan!
+- *2024.01*: &nbsp;🎉🎉 Our paper on Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning has been accepted by ICRA! See you in Yokohama, Japan!
 - *2023.11*: &nbsp; I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
 - *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
 - *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
