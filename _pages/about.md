@@ -184,6 +184,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 ## All Publications
 ### Journal
+- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
+
 - [Transformer-Based Traffic-Aware Predictive Energy Management of a Fuel Cell Electric Vehicle](https://ieeexplore.ieee.org/abstract/document/10409570), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2024**
 
 - [Map-Adaptive Multimodal Trajectory Prediction via Intention-Aware Unimodal Trajectory Predictors](https://ieeexplore.ieee.org/abstract/document/10323217/), Xiaoyu Mo, Haochen Liu, **Zhiyu Huang**, Xiuxian Li, Chen Lv,  **IEEE Transactions on Intelligent Transportation Systems, 2023**
@@ -217,10 +219,9 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
-### Preprints
+### Preprint
 - [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
 
-- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **arXiv, 2022** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
 
 # 🎖 Honors and Awards
 - *2023.09* Best Paper Runner-up Award, ITSC 2023
@@ -236,12 +237,13 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2017.10* National Scholarship (Top 1%)
 
 # 📖 Education
-- *2019.08 - 2024.01*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
+- *2019.08 - 2024.08*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
 ## Program Committee
-- Lead organizer of Special Session on learning-powered prediction and decision-making at ITSC, 2023
+- Lead organizer of Special Session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC, 2023
+- Lead organizer of Special Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
 
 ## Journal Reviewer
 - IEEE Transactions on Intelligent Transportation Systems 
@@ -255,7 +257,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 ## Conference Reviewer
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
-- IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2023
-- IEEE Intelligent Transportation Systems Conference (ITSC) 2022
+- IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
+- IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023
 - European Conference on Computer Vision (ECCV) 2024
