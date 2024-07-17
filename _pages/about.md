@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a visiting student researcher at UC Berkeley, working in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/) under the guidance of Prof. Masayoshi Tomizuka and Dr. Wei Zhan. I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. My research endeavors are based in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), which is led by Prof. Chen Lyu.
 
-My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. 
+My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 30 papers in top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our ITSC invited session on [Learning-powered and Knowledge-driven Autonomous Driving](https://sites.google.com/view/itsc-lpad-2) has received 11 paper submissions, all of which were accepted. Congratulations to all the authors! Looking forward to seeing you in Edmonton, Canada!
@@ -29,7 +29,7 @@ My research primarily centers around the intersection of autonomous driving and 
   
 # 📝 Publications
 ## Highlights
-<div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/pomdp.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Online Belief Prediction for Efficient POMDP Planning in Autonomous Driving**
