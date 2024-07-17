@@ -236,7 +236,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ### Preprint
-- [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking](https://arxiv.org/abs/2406.15349), Daniel Dauner, Marcel Hallgarten, Tianyu Li, Xinshuo Weng, **Zhiyu Huang**, Zetong Yang, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, **arXiv, 2024** [![](https://github.com/autonomousvision/navsim?style=social&label=Code Stars)](https://github.com/autonomousvision/navsim)
+- [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking](https://arxiv.org/abs/2406.15349), Daniel Dauner, Marcel Hallgarten, Tianyu Li, Xinshuo Weng, **Zhiyu Huang**, Zetong Yang, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, **arXiv, 2024** [![](https://img.shields.io/github/stars/autonomousvision/navsim?style=social&label=Code Stars)](https://github.com/autonomousvision/navsim)
 
 - [Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion](https://arxiv.org/abs/2404.02524), **Zhiyu Huang**, Zixu Zhang, Ameya Vaidya, Yuxiao Chen, Chen Lv, Jaime Fernández Fisac, **arXiv, 2024**
 
