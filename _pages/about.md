@@ -15,19 +15,35 @@ I am currently a visiting student researcher at UC Berkeley, working in the [Mec
 My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Our ITSC invited session on [Learning-powered and Knowledge-driven Autonomous Driving](https://sites.google.com/view/itsc-lpad-2) has received 11 paper submissions, all of which were accepted. Congratulations to all the authors! Looking forward to seeing you in Edmonton, Canada!
+- *2024.06*: &nbsp;🎉🎉 Our team secured first place in the Waymo Open Dataset Occupancy Flow Challenge and second place in the Sim Agents Challenge! Check out our technical reports on the [Waymo challenge website](https://waymo.com/open/challenges/) and [CVPR 2024 Workshop on Autonomous Driving](https://cvpr2024.wad.vision/).
+- *2023.05*: &nbsp;🎉🎉 Our paper on online belief prediction and POMDP planning has been accepted by RAL!
 - *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
 - *2023.11*: &nbsp; I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
 - *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
 - *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
 - *2023.09*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for robot navigation has been accepted by TPAMI!
 - *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by ICCV as **Oral presentation**!
-- *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors!
 - *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
-- *2023.06*: &nbsp;🎉🎉 Our team secured third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
-Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
+
   
 # 📝 Publications
 ## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning Online Belief Prediction for Efficient POMDP Planning in Autonomous Driving**
+
+Zhiyu Huang, Chen Tang, Chen Lv, Masayoshi Tomizuka, Wei Zhan
+
+**IEEE Robotics and Automation Letters**
+
+[**Paper**](https://arxiv.org/abs/2401.15315)
+
+-  we propose an online belief-update-based behavior prediction model and an efficient planner for POMDPs. We develop a Transformer-based prediction model, enhanced with a recurrent neural memory model, to dynamically update latent belief state and infer the intentions of other agents.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
