@@ -236,10 +236,15 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ### Preprint
+- [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking](https://arxiv.org/abs/2406.15349), Daniel Dauner, Marcel Hallgarten, Tianyu Li, Xinshuo Weng, **Zhiyu Huang**, Zetong Yang, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, **arXiv, 2024** [![](https://github.com/autonomousvision/navsim?style=social&label=Code Stars)](https://github.com/autonomousvision/navsim)
+
+- [Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion](https://arxiv.org/abs/2404.02524), **Zhiyu Huang**, Zixu Zhang, Ameya Vaidya, Yuxiao Chen, Chen Lv, Jaime Fernández Fisac, **arXiv, 2024**
+
 - [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
 
-
 # 🎖 Honors and Awards
+- *2024.06* [1st Place Winner, Waymo Open Dataset Occupancy Flow Challenge](http://cvpr2024.wad.vision/), CVPR Workshop on Autonomous Driving
+- *2024.06* [2rd Place Winner, Waymo Open Dataset Sim Agents Challenge](http://cvpr2024.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2023.09* Best Paper Runner-up Award, ITSC 2023
 - *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving \| [\[video\]](https://youtu.be/ZwhXilQKULY?t=1204)
 - *2023.06* [3rd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2023.wad.vision/), CVPR Workshop on Autonomous Driving
@@ -253,13 +258,13 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2017.10* National Scholarship (Top 1%)
 
 # 📖 Education
-- *2019.08 - 2024.08*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
-- *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
+- *2019 - 2024*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
+- *2015 - 2019*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
 
 # 📚 Academic Services
 ## Program Committee
 - Lead organizer of Special Session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC, 2023
-- Lead organizer of Special Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
+- Lead organizer of Invited Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
 
 ## Journal Reviewer
 - IEEE Transactions on Intelligent Transportation Systems 
