@@ -64,7 +64,7 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 
 **Learning-enabled Decision-making for Autonomous Driving: Framework and Methodology**
 
-**PhD Thesis, 2023**
+**PhD Thesis, 2024**
 
 [**Thesis**](https://dr.ntu.edu.sg/handle/10356/172842)
 
