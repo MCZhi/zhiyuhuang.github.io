@@ -36,7 +36,7 @@ My research primarily centers around the intersection of autonomous driving and 
 
 Zhiyu Huang, Chen Tang, Chen Lv, Masayoshi Tomizuka, Wei Zhan
 
-**IEEE Robotics and Automation Letters**
+**IEEE Robotics and Automation Letters, 2024**
 
 [**Paper**](https://arxiv.org/abs/2401.15315)
 
