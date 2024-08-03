@@ -59,7 +59,6 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 </div>
 </div>
 
-<!---
 <div class='paper-box'><div class='paper-box-image'><img src='images/thesis.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,7 +71,6 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 -  This thesis presents a comprehensive framework and a series of learning-based methodologies for decision-making in AVs, with the objective of improving the scalability, adaptability, and alignment of their decision-making systems.
 </div>
 </div>
--->
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/gameformer.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
