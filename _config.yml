@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiyu Huang"
-description              : "Ph.D. candidate at NTU, visiting researcher at UC Berkeley. Focusing on autonomous driving, machine learning, and decision-making."
+description              : "Postdoc at UCLA, Ph.D. from NTU, former NVIDIA research intern, and visiting researcher at UC Berkeley. Focused on AI, mobility, and robotics."
 repository               : "MCZhi/MCZhi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyu Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University"
-  location         : "Berkeley, CA"
+  bio              : "University of California, Los Angeles"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aLZEVCsAAAAJ&hl=en"
