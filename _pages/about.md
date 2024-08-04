@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a visiting student researcher at UC Berkeley, working in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/) under the guidance of Prof. Masayoshi Tomizuka and Dr. Wei Zhan. I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. My research endeavors are based in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), which is led by Prof. Chen Lyu.
+I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobility-lab.seas.ucla.edu/), working under the guidance of Prof. Jiaqi Ma. Previously, I was a research intern at the [NVIDIA Research Autonomous Vehicle Research Group](https://research.nvidia.com/labs/avg/) and a visiting student researcher at UC Berkeley in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/). I earned my Ph.D. from Nanyang Technological University (NTU), where I conducted research in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan) under the supervision of Prof. Chen Lyu.
 
-My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 30 papers in top AI/ITS/Robotics journals and conferences. 
+My research focuses on the intersection of robotics, autonomous driving, and artificial intelligence (AI). I aim to develop algorithms and techniques that enable machines/robots to interact with humans naturally and make intelligent decisions. Specifically, my research interests include deep learning, reinforcement learning, and generative AI, applied to areas such as decision-making, prediction and planning, simulation in autonomous driving, and human-machine interaction. My work has led to the publication of over 30 papers in top AI, ITS, and robotics journals and conferences. 
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our ITSC invited session on [Learning-powered and Knowledge-driven Autonomous Driving](https://sites.google.com/view/itsc-lpad-2) has received 11 paper submissions, all of which were accepted. Congratulations to all the authors! Looking forward to seeing you in Edmonton, Canada!
@@ -198,6 +198,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 ## All Publications
 ### Journal
+- [Safety-Aware Human-in-the-Loop Reinforcement Learning With Shared Control for Autonomous Driving]([https://arxiv.org/abs/2208.12263](https://ieeexplore.ieee.org/abstract/document/10596046)), Wenhui Huang, Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems**
+
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
 
 - [Transformer-Based Traffic-Aware Predictive Energy Management of a Fuel Cell Electric Vehicle](https://ieeexplore.ieee.org/abstract/document/10409570), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2024**
