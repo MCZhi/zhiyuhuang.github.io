@@ -198,7 +198,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 ## All Publications
 ### Journal
-- [Safety-Aware Human-in-the-Loop Reinforcement Learning With Shared Control for Autonomous Driving]([https://arxiv.org/abs/2208.12263](https://ieeexplore.ieee.org/abstract/document/10596046)), Wenhui Huang, Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems**
+- [Safety-Aware Human-in-the-Loop Reinforcement Learning With Shared Control for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10596046), Wenhui Huang, Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems**
 
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
 
