@@ -251,6 +251,10 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
 
 ### Conference
+- [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking](https://arxiv.org/abs/2406.15349), Daniel Dauner, Marcel Hallgarten, Tianyu Li, Xinshuo Weng, **Zhiyu Huang**, Zetong Yang, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, **Advances in Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks, 2024** [![](https://img.shields.io/github/stars/autonomousvision/navsim?style=social&label=Code Stars)](https://github.com/autonomousvision/navsim)
+
+- [Scalable Traffic Simulation for Autonomous Driving via Multi-Agent Goal Assignment and Autoregressive Goal-Directed Planning](https://ieeexplore.ieee.org/abstract/document/10588681/), Xiaoyu Mo, Haochen Liu, **Zhiyu Huang**, Jianwu Fang, Jianru Xue, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2024**
+
 - [Occupancy Prediction-Guided Neural Planner for Autonomous Driving](https://arxiv.org/abs/2305.03303), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** [![](https://img.shields.io/github/stars/georgeliu233/OPGP?style=social&label=Code Stars)](https://github.com/georgeliu233/OPGP)
 
 - [Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023** [![](https://img.shields.io/github/stars/georgeliu233/STrajNet?style=social&label=Code Stars)](https://github.com/georgeliu233/STrajNet)
@@ -266,13 +270,11 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
 
 ### Preprint
-- [NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking](https://arxiv.org/abs/2406.15349), Daniel Dauner, Marcel Hallgarten, Tianyu Li, Xinshuo Weng, **Zhiyu Huang**, Zetong Yang, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta, **arXiv, 2024** [![](https://img.shields.io/github/stars/autonomousvision/navsim?style=social&label=Code Stars)](https://github.com/autonomousvision/navsim)
-
-- [Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion](https://arxiv.org/abs/2404.02524), **Zhiyu Huang**, Zixu Zhang, Ameya Vaidya, Yuxiao Chen, Chen Lv, Jaime Fernández Fisac, **arXiv, 2024**
-
 - [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
 
 # 🎖 Honors and Awards
+- *2024.08* IEEE ITS Best Dissertation Award Finalist
+- *2024.07* Best Paper Award, [RSS 2024 workshop for Autonomous Vehicles Across Scale ](https://vindulamj.github.io/rss24-avas-workshop/)
 - *2024.06* [1st Place Winner, Waymo Open Dataset Occupancy Flow Challenge](http://cvpr2024.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2024.06* [2rd Place Winner, Waymo Open Dataset Sim Agents Challenge](http://cvpr2024.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2023.09* Best Paper Runner-up Award, ITSC 2023
@@ -296,6 +298,9 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Lead organizer of Special Session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC, 2023
 - Lead organizer of Invited Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
 
+## Associate Editor
+- OJ-ITS – IEEE Open Journal of Intelligent Transportation Systems
+
 ## Journal Reviewer
 - IEEE Transactions on Intelligent Transportation Systems 
 - IEEE Transactions on Neural Networks and Learning Systems
@@ -312,3 +317,5 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023
 - European Conference on Computer Vision (ECCV) 2024
+- Conference on Robot Learning (CoRL) 2024
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025
