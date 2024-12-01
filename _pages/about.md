@@ -15,6 +15,7 @@ I am currently a postdoctoral scholar at the [UCLA Mobility Lab](https://mobilit
 My research focuses on the intersection of robotics, mobility, and artificial intelligence (AI). I aim to develop algorithms and techniques that enable machines/robots to interact with humans naturally and make intelligent decisions. My research interests include deep learning, reinforcement learning, and generative AI, applied to areas such as perception, prediction, decision-making, simulation in autonomous driving, and human-machine interaction. My work has led to the publication of over 30 papers in top AI, ITS, and robotics journals and conferences. 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Our NAVSIM paper on end-to-end driving benchmark has been accepted at NeurIPS 2024 Datasets and Benchmarks Track!
 - *2024.07*: &nbsp;🎉🎉 Our ITSC invited session on [Learning-powered and Knowledge-driven Autonomous Driving](https://sites.google.com/view/itsc-lpad-2) has received 11 paper submissions, all of which were accepted. Congratulations to all the authors! Looking forward to seeing you in Edmonton, Canada!
 - *2024.06*: &nbsp;🎉🎉 Our team secured first place in the Waymo Open Dataset Occupancy Flow Challenge and second place in the Sim Agents Challenge! Check out our technical reports on the [Waymo challenge website](https://waymo.com/open/challenges/) and [CVPR 2024 Workshop on Autonomous Driving](https://cvpr2024.wad.vision/).
 - *2024.05*: &nbsp;🎉🎉 Our paper on online belief prediction and POMDP planning has been accepted by RAL!
@@ -312,7 +313,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Artificial Intelligence Review 
 
 ## Conference Reviewer
-- IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
+- IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2025
 - IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023
