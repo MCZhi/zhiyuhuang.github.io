@@ -29,6 +29,36 @@ My research focuses on the intersection of robotics, mobility, and artificial in
   
 # 📝 Publications
 ## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/gendrive.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning**
+
+Zhiyu Huang, Xinshuo Weng, Maximilian Igl, Yuxiao Chen, Yulong Cao, Boris Ivanovic, Marco Pavone, Chen Lv
+
+**arXiv, 2024**
+
+[**Paper**](https://arxiv.org/abs/2410.05582) \| [**Project**](https://mczhi.github.io/GenDrive/)
+
+- We introduce the Gen-Drive framework, which shifts from the traditional prediction and deterministic planning framework to a generation-then-evaluation planning paradigm. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/vbd.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Versatile Behavior Diffusion for Generalized Traffic Simulation**
+
+Zhiyu Huang, Zixu Zhang, Ameya Vaidya, Yuxiao Chen, Chen Lv, Jaime Fernández Fisac
+
+**arXiv, 2024**
+
+[**Paper**](https://arxiv.org/abs/2404.02524) \| [**Project**](https://sites.google.com/view/versatile-behavior-diffusion) \| [![](https://img.shields.io/github/stars/SafeRoboticsLab/VBD?style=social&label=Code Stars)](https://github.com/SafeRoboticsLab/VBD)
+
+-  We propose VBD, a novel traffic scenario generation framework that utilizes diffusion generative models to predict scene-consistent and controllable multi-agent interactions in closed-loop settings.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/pomdp.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,7 +70,7 @@ Zhiyu Huang, Chen Tang, Chen Lv, Masayoshi Tomizuka, Wei Zhan
 
 [**Paper**](https://arxiv.org/abs/2401.15315)
 
--  we propose an online belief-update-based behavior prediction model and an efficient planner for POMDPs. We develop a Transformer-based prediction model, enhanced with a recurrent neural memory model, to dynamically update latent belief state and infer the intentions of other agents.
+-  We propose an online belief-update-based behavior prediction model and an efficient planner for POMDPs. We develop a Transformer-based prediction model, enhanced with a recurrent neural memory model, to dynamically update latent belief state and infer the intentions of other agents.
 </div>
 </div>
 
