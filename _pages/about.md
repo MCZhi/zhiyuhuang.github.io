@@ -228,7 +228,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 ## All Publications
 ### Journal
-- [Safety-Aware Human-in-the-Loop Reinforcement Learning With Shared Control for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10596046), Wenhui Huang, Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems**
+- [Safety-Aware Human-in-the-Loop Reinforcement Learning With Shared Control for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10596046), Wenhui Huang, Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems** [![](https://img.shields.io/github/stars/OscarHuangWind/Safe-Human-in-the-Loop-RL?style=social&label=Code Stars)](https://github.com/OscarHuangWind/Safe-Human-in-the-Loop-RL)
 
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
 
@@ -318,4 +318,4 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023
 - European Conference on Computer Vision (ECCV) 2024
 - Conference on Robot Learning (CoRL) 2024
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
